@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L2MG/75ukRZeV3EOr0+LHc2834m7h+eLChVf5Cn7vuo=",
+  "Source": "BankAccountReader",
+  "BasePath": "_content/BankAccountReader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
